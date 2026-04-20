@@ -10,6 +10,7 @@ This project analyzes sales and profitability using the Superstore dataset in Po
 
 ## Tools Used
 - Power BI
+- Git & GitHub
 
 ## Files
 - Power BI report (local)
@@ -35,3 +36,11 @@ Completed ✅
 - South region showed the weakest performance (~0.39M)
 - Technology is the leading category in top-performing regions
 - Discounts negatively impact profit margins, especially in low-performing regions
+
+## Dataset
+Superstore dataset (sample retail data)
+
+## What I learned
+- How to structure analysis from business questions
+- How to visualize insights clearly
+- How to use GitHub for project documentation
