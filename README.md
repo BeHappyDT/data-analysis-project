@@ -1,14 +1,19 @@
-# Data Analysis Project
+# Superstore Sales Analysis
 
-This repository contains my journey in learning data analytics.
+## Overview
+This project analyzes sales and profitability using the Superstore dataset in Power BI.
+
+## Key Insights
+- Technology category generates the highest revenue
+- Some regions operate at a loss
+- Discounts negatively impact profit margins
 
 ## Tools Used
 - Power BI
-- Python
-- SQL
 
-## About
-This project is part of my practice in building data analysis skills and working with real tools.
+## Files
+- Power BI report (local)
+- Analysis and insights
 
 ## Status
-In progress 🚀
+Completed ✅
